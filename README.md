@@ -41,7 +41,7 @@ This Power BI dashboard offers a detailed view of Uber ride patterns, helping st
 ## 🗂 **File Information**
 - **File Name:** `Uber.pbix`
 - **Tool Used:** Microsoft Power BI
-- **Data Sources:** Uber rides dataset (`uber_data.xlsx` or equivalent)
+- **Data Sources:** Uber Trip Details.xlsx | Location Table.xlsx
 
 ---
 
