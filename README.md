@@ -1,4 +1,5 @@
 🚖 Uber Rides Analysis Dashboard
+
 This Power BI dashboard offers a detailed view of Uber ride patterns, helping stakeholders and analysts understand trip trends, customer behavior, and operational performance. It transforms raw ride data into interactive visualizations, enabling data-driven decision-making for pricing, marketing, and resource allocation.
 
 🎯 Project Objectives
@@ -42,11 +43,10 @@ Tool Used: Microsoft Power BI
 Data Sources: Uber Trip Details.xlsx | Location Table.xlsx
 
 📸 Dashboard Pages
-Overview Page
+
 <img width="858" height="485" alt="Overview Page" src="https://github.com/user-attachments/assets/ec058f68-aeb7-42c1-b11f-e49d56262ccd" />
 
 
-Time Analysis Page
 <img width="856" height="487" alt="Time Analysis Page" src="https://github.com/user-attachments/assets/723fdacf-d3cb-40f0-9a1d-a1328646eafb" />
 
 
